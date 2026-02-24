@@ -50,7 +50,7 @@ rock-paper-scissors/
 
 ## 🔄 How to Run Locally
 1. Clone this repository:
- git clone https://github.com/your-username/rock-paper-scissors.git
+ git clone https://github.com/miriam-gale/rock-paper-scissors.git
 
 
 2. Open `index.html` in your browser  
