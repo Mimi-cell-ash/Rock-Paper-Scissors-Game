@@ -6,8 +6,8 @@ Players choose a move and play against the computer, with live score tracking an
 ---
 
 ## 🚀 Live Demo
-👉 https://gilded-begonia-a86c59.netlify.app  
-*(Replace this link if you later change your Netlify URL)*
+👉 https://play-rock-paper-scissors-game-1.netlify.app/
+
 
 ---
 
