@@ -26,12 +26,9 @@ body {
     max-width: 90%;
 }
 
-@media (min-width: 349px){
-.container-game .score-board {
-  gap: 30px; 
-}
+
 .choices {
-  flex-direction: column;
+  flex-direction: row;
 }
 
 h1 {
